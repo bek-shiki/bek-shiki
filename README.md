@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilguun Erdenekhuu</h1>
 <h3 align="center">A passionate Full-Stack Developer from Ulaanbaatar Mongolian 🇲🇳</h3>
 
-- 🔭 I’m currently working on **Ai start up**
+- 🔭 I’m currently working on **Ai start-up**
 
 - 🌱 I’m currently learning **What do I want? all of them.**
 
@@ -18,7 +18,7 @@
     </tr>
 
 <tr>
-      <th><h4 align="left">Technologies and Languages</h4> </th>
+      <th height="40"><h4 align="left">Technologies and Languages</h4> </th>
       <td></td>
 
 </tr>
