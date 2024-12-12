@@ -18,7 +18,7 @@
     </tr>
 
 <tr>
-      <th><h3 align="left">Technologies and Languages</h3> </th>
+      <th><h4 align="left">Technologies and Languages</h4> </th>
       <td></td>
 
 </tr>
