@@ -17,8 +17,8 @@
     <th><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bek-shiki&show_icons=true&locale=en&layout=compact" alt="bek-shiki" /></p></th>
     </tr>
 
-<tr>
-      <th height="40"><h4 align="left">Technologies and Languages</h4> </th>
+<tr  height="40">
+      <th><h4 align="left">Technologies and Languages</h4> </th>
       <td></td>
 
 </tr>
