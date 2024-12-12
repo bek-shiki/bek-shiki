@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilguun Erdenekhuu</h1>
-<h3 align="center">A passionate Full-Stack Developer from Mongolian</h3>
+<h3 align="center">A passionate Full-Stack Developer from Ulaanbaatar Mongolian 🇲🇳</h3>
 
 - 🔭 I’m currently working on **Ai start up**
 
