@@ -18,7 +18,7 @@
   </thead>
 
   <tbody>
-    <td color="gray">    <h3 align="left">Technologies and Languages</h3>
+    <td>    <h3 align="left">Technologies and Languages</h3>
 </td>
 <td></td>
    
